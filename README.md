@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**Barbara-Neves/Barbara-Neves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m sarting to study programming
+- 👩‍💻 I’m currently learning web development (**JavaScript, HTML, CSS, SQL, Node.JS**
+and more)
+- 🤔 I’m looking for help with the difficulties of starting to study codes 
+- 📫 you can text me on [email] (mailto="barbaraoliveira.neves.bg@gmail.com")
+- 🤓 Fun fact: i love random informations mostly about how the things works
 
-Here are some ideas to get you started:
+## Contact
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.linkedin.com/in/b%C3%A1rbara-neves-68b97b274/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Barbara Neves-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://www.instagram.com/barbaraneves_37/" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-@barbaraneves_37-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+
