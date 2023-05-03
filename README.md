@@ -4,7 +4,7 @@
 - 👩‍💻 I’m currently learning web development (**JavaScript, HTML, CSS, SQL, Node.JS**
 and more)
 - 🤔 I’m looking for help with the difficulties of starting to study codes 
-- 📫 you can text me on [email] (barbaraoliveira.neves.bg@gmail.com)
+- 📫 you can text me on (email) [barbaraoliveira.neves.bg@gmail.com]
 - 🤓 Fun fact: i love random informations mostly about how the things works
 
 ## Contact
